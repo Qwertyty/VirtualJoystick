@@ -1,0 +1,12 @@
+C:\Users\Qwerty\Desktop\MyJoySticks\VirtualJoystick\bin\Debug\VirtualJoystick.dll
+C:\Users\Qwerty\Desktop\MyJoySticks\VirtualJoystick\bin\Debug\VirtualJoystick.pdb
+C:\Users\Qwerty\Desktop\MyJoySticks\VirtualJoystick\obj\Debug\VirtualJoystick.dll
+C:\Users\Qwerty\Desktop\MyJoySticks\VirtualJoystick\obj\Debug\VirtualJoystick.pdb
+C:\Users\Qwerty\Desktop\MyJoySticks\VirtualJoystick\obj\Debug\VirtualJoystick.Properties.Resource1.resources
+C:\Users\Qwerty\Desktop\MyJoySticks\VirtualJoystick\obj\Debug\VirtualJoystick.csproj.GenerateResource.Cache
+C:\Users\Qwerty\Desktop\FormTest2010\VirtualJoystick\bin\Debug\VirtualJoystick.dll
+C:\Users\Qwerty\Desktop\FormTest2010\VirtualJoystick\bin\Debug\VirtualJoystick.pdb
+C:\Users\Qwerty\Desktop\FormTest2010\VirtualJoystick\obj\Debug\VirtualJoystick.Properties.Resource1.resources
+C:\Users\Qwerty\Desktop\FormTest2010\VirtualJoystick\obj\Debug\VirtualJoystick.csproj.GenerateResource.Cache
+C:\Users\Qwerty\Desktop\FormTest2010\VirtualJoystick\obj\Debug\VirtualJoystick.dll
+C:\Users\Qwerty\Desktop\FormTest2010\VirtualJoystick\obj\Debug\VirtualJoystick.pdb
